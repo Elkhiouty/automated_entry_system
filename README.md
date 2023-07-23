@@ -32,10 +32,9 @@
 <br>  
 
 ## 3- Attendance Tracking
-#### we have an online websiteand database so we store when everone enter and leave   
+#### We have an online website and database, so we store when everyone enters and leave   
 <br>  
 
 ## 4- Anti-cheating system
 #### We record the face and eyes of the person,
-#### if we noticed a suspicious behavoir for 5 times we submit his exam imeadiately   
-
+#### If we noticed suspicious behavior, we submitted his exam immediately
